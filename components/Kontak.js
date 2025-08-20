@@ -6,7 +6,7 @@ import { MdEmail } from "react-icons/md";
 export default function Kontak() {
     return (
         <section id="alamat" className="py-12 px-4 bg-lime-100">
-            <h2 className="text-2xl font-bold text-green-500 mb-6">Alamat</h2>
+            <h2 className="text-2xl font-bold bg-lime-400 text-green-500 mb-6">Alamat</h2>
 
 
             <div className="flex flex-col md:flex-row md:items-start gap-6">
