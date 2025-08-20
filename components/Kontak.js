@@ -43,7 +43,7 @@ export default function Kontak() {
                 <input type="text" placeholder="Nama" className="p-2 border rounded" />
                 <input type="email" placeholder="Email" className="p-2 border rounded" />
                 <input type="number" placeholder="Nomor Telepon" className="p-2 border rounded" />
-                <input type="text" placeholder="DD/MM/YY" className="p-2 border rounded" />
+                <input type="number" placeholder="DD/MM/YY" className="p-2 border rounded" />
                 <textarea placeholder="Catatan" className="p-2 border rounded md:col-span-2 h-40"></textarea>
                 <button className="bg-lime-400 text-white font-semibold text-center w-30 py-2 px-2 rounded md:col-span-2 hover:bg-lime-300">
                     Submit
